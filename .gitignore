@@ -1,0 +1,6 @@
+# C++ compiled binaries
+*.out
+*.exe
+*.o
+*.a
+*.so
